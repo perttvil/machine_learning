@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+*.csv
+*.txt
+*.Rproj
+q1.R
+q2.R
+q3.R
+q4.R
+multiplot.R
+writeup_cache
